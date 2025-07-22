@@ -4,8 +4,8 @@ A simple and interactive Currency Converter that allows users to convert foreign
 
 #  Screenshot
 
-![Currency Converter Screenshot](screenshot1.png)
-![Currency Converter Screenshot](screenshot2.png)
+![Currency Converter Screenshot](Screenshot1.png)
+![Currency Converter Screenshot](Screenshot2.png)
 
 #  How to Use
 
